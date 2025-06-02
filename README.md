@@ -126,7 +126,6 @@ cap.release()
 plt.close()
 ```
 ### Output
-![WhatsApp Image 2025-05-29 at 14 18 15_6a4519a2](https://github.com/user-attachments/assets/accc5eb1-e38e-4433-b5f2-4e01841e94b4)
 
 ### Result
 Python program using OpenCV to perform the following image manipulations has been implemented successfully
